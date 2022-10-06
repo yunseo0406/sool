@@ -1,12 +1,14 @@
 #include <stdio.h>
 
+// 허수
+
 int main()
 
 {
 
 	int glass;
 
-	printf("정연이의 주량은? (몇잔, 8잔 이하)");
+	printf("윤서의 주량은? (몇잔, 8잔 이하)");
 
 	scanf("%d", &glass);
 
